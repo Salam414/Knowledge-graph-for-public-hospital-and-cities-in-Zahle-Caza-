@@ -27,7 +27,7 @@ This project uses **NetworkX**, **Geopy**, and **Cartopy** to build and visualiz
 - 'geopy':To compute geodesic distances between coordinates
 - 'matplotlib':For plotting
 - 'cartopy': For geographic map plotting
-- 'folium':
+- 'folium': a Python library used to create interactive maps powered by Leaflet.js
 
 🧠 Graph Structure
 
